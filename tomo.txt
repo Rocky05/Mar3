@@ -1,1 +1,4 @@
-Tomorrow is Tuesday
+Tomorrow is Wednesday
+
+Weekend is Saturday
+Sunday
