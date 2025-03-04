@@ -1,4 +1,8 @@
-Tomorrow is Wednesday
+Today is Tuesday
+
+Yesterday is Monday
+
+Tomo is Wednesday
 
 Weekend is Saturday
 Sunday
