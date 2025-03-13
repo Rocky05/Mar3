@@ -1,0 +1,1 @@
+I'm explaining Git log command usage now
