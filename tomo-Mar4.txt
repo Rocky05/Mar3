@@ -1,8 +1,10 @@
-Today is Tuesday
+Today is Thursday
 
 Yesterday is Monday
 
-Tomo is Wednesday
+Tomo is Friday
+
+Day-before yesterday is Tuesday
 
 Weekend is Saturday
 Sunday
