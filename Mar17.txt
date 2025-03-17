@@ -1,1 +1,2 @@
 We are discussing about Branch Protection rules
+We have applied branch protection rules now.
